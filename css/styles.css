@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+
+.caja1{
+    
+    height: 30vh;
+    background-color: #F23D4C;
+}   
+.caja2 {
+    border-style: solid;
+    border-color:black;
+    height: 5vh;
+    background-color: gray;
+    text-align: center;
+}
+.caja3 {
+    border-style: solid;
+    border-color:black;
+    height: 30vh;
+    background-color: #768BA6;
+}
+.caja4 {
+    border-style: solid;
+    border-color:black;
+    height: 25vh;
+    background-color: #064073;
+}
+
+.caja5 {
+    height: 80vh;
+    background-color: #406d95;
+    display: flex;
+    justify-content: center;
+    padding: 230px;
+
+}
+
+.foto{
+    display: flex;
+    justify-content: center; 
+}
