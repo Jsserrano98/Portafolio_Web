@@ -33,10 +33,47 @@
     display: flex;
     justify-content: center;
     padding: 230px;
+}
 
+.caja6 {
+    height: 80vh;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    padding: 230px;
+    border: 5px black solid;
+    padding: 150px;;
+}
+.caja7 {
+    height: 45vh;
+    background-color: rgb(213, 81, 58);
+    padding: 45px;
+    justify-content: center;
+}
+
+.caja8 {
+    border-style: solid;
+    border-color:black;
+    height: 45vh;
+    background-color: rgb(251, 226, 77);
 }
 
 .foto{
     display: flex;
-    justify-content: center; 
+    justify-content: center;
+    align-items: center;
+}
+
+.foto2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.caja9 {
+    border-style: solid;
+    border-color:black;
+    height: 45vh;
+    background-color: rgb(29, 29, 27);
 }
