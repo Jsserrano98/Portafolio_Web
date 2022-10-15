@@ -2,6 +2,16 @@
     box-sizing: border-box;
 }
 
+.tipografia {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 74px;
+}
+
+h2 {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 47px;
+}
+
 .caja1{
     
     height: 30vh;
@@ -17,14 +27,14 @@
 .caja3 {
     border-style: solid;
     border-color:black;
-    height: 30vh;
+    height: 35vh;
     background-color: #768BA6;
     padding-left: 0%;
 }
 .caja4 {
     border-style: solid;
     border-color:black;
-    height: 25vh;
+    height: 30vh;
     background-color: #064073;
     padding-left: 0%;
     padding: 0,5px;
@@ -91,17 +101,29 @@
     background-color: rgb(29, 29, 27);
 }
 
-.descripcion {
-    position: absolute;
-    z-index: 2;
+.caja10 {
+    height: 80vh;
+    background-color: rgb(251, 226, 77);
+    padding: 3%;
+    text-align: center;
 }
 
-.fondo {
-    position: absolute;
-    z-index: 1;
+.equipo {
+    padding: 20px;
 }
 
-.numeros {
-    position: absolute;
-    z-index: 3;
+.margen {
+    margin: 150px;
+}
+
+.margen2 {
+    margin: 40px;
+}
+
+.borde {
+    border: 7px black solid;
+}
+
+.borde2 {
+    border: 7px white solid;
 }
