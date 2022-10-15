@@ -19,12 +19,23 @@
     border-color:black;
     height: 30vh;
     background-color: #768BA6;
+    padding-left: 0%;
 }
 .caja4 {
     border-style: solid;
     border-color:black;
     height: 25vh;
     background-color: #064073;
+    padding-left: 0%;
+    padding: 0,5px;
+}
+
+.caja4-1 {
+    border-style: solid;
+    border-color:black;
+    height: 25vh;
+    background-color: gray;
+    padding-left: 0%;
 }
 
 .caja5 {
@@ -41,10 +52,12 @@
     display: flex;
     justify-content: center;
     padding: 230px;
-    border: 5px black solid;
+    border: 3px black solid;
     padding: 150px;;
 }
 .caja7 {
+    border-style: solid;
+    border-color: black;
     height: 45vh;
     background-color: rgb(213, 81, 58);
     padding: 45px;
@@ -76,4 +89,19 @@
     border-color:black;
     height: 45vh;
     background-color: rgb(29, 29, 27);
+}
+
+.descripcion {
+    position: absolute;
+    z-index: 2;
+}
+
+.fondo {
+    position: absolute;
+    z-index: 1;
+}
+
+.numeros {
+    position: absolute;
+    z-index: 3;
 }
