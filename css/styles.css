@@ -13,8 +13,7 @@ h2 {
 }
 
 .caja1{
-    
-    height: 30vh;
+    height: 20vh;
     background-color: #F23D4C;
 }   
 .caja2 {
@@ -119,7 +118,7 @@ h2 {
 
 .caja12 {
     height: 20vh;
-    background-color: black;
+    background-color: rgb(251, 226, 77);
     display: flex;
     align-items: center;
 }
@@ -129,33 +128,39 @@ h2 {
     justify-content: center;
     align-items: center;
     width: 100% ;
+    color: black;
 }
 
 .whatsapp2 {
-    color: white;
+    color: black;
     display: flex;
     align-items: center;
 }
 
+.gmail {
+    width: 70%;
+    padding: 0%;
+}
+
 .caja13 {
     height: 20vh;
-    background-color: gray;
-    padding: 3%;
-    text-align: center;
+    background-color: rgb(251, 226, 77);
+    display: flex;
+    align-items: center;
 }
 
 .caja14 {
     height: 20vh;
-    background-color: indigo;
-    padding: 3%;
-    text-align: center;
+    background-color: rgb(251, 226, 77);
+    display: flex;
+    align-items: center;
 }
 
 .caja15 {
     height: 20vh;
-    background-color: blue;
-    padding: 3%;
-    text-align: center;
+    background-color: rgb(251, 226, 77);
+    display: flex;
+    align-items: center;
 }
 
 .equipo {
