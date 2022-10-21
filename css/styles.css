@@ -106,6 +106,56 @@ h2 {
     background-color: rgb(251, 226, 77);
     padding: 3%;
     text-align: center;
+    border-bottom: 5px black solid;
+}
+
+.caja11 {
+    height: 95vh;
+    background-color: rgb(251, 226, 77);
+    padding: 3%;
+    text-align: center;
+
+}
+
+.caja12 {
+    height: 20vh;
+    background-color: black;
+    display: flex;
+    align-items: center;
+}
+
+.whatsapp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100% ;
+}
+
+.whatsapp2 {
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.caja13 {
+    height: 20vh;
+    background-color: gray;
+    padding: 3%;
+    text-align: center;
+}
+
+.caja14 {
+    height: 20vh;
+    background-color: indigo;
+    padding: 3%;
+    text-align: center;
+}
+
+.caja15 {
+    height: 20vh;
+    background-color: blue;
+    padding: 3%;
+    text-align: center;
 }
 
 .equipo {
