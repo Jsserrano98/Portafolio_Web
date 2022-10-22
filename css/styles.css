@@ -18,11 +18,16 @@ h2 {
 }   
 .caja2 {
     border-style: solid;
-    border-color:black;
+    border-color:white;
     height: 5vh;
-    background-color: gray;
+    background-color: black;
     text-align: center;
 }
+
+.botones {
+    color: white;
+}
+
 .caja3 {
     border-style: solid;
     border-color:black;
@@ -57,16 +62,13 @@ h2 {
 
 .caja6 {
     height: 80vh;
-    background-color: white;
+    background-color: #406d95;
     display: flex;
     justify-content: center;
     padding: 230px;
-    border: 3px black solid;
-    padding: 150px;;
+    padding: 150px;
 }
 .caja7 {
-    border-style: solid;
-    border-color: black;
     height: 45vh;
     background-color: rgb(213, 81, 58);
     padding: 45px;
@@ -74,16 +76,15 @@ h2 {
 }
 
 .caja8 {
-    border-style: solid;
-    border-color:black;
     height: 45vh;
     background-color: rgb(251, 226, 77);
 }
 
 .foto{
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: end;
+    align-items: flex-end;
+    padding: 3%;
 }
 
 .foto2{
@@ -94,8 +95,6 @@ h2 {
 }
 
 .caja9 {
-    border-style: solid;
-    border-color:black;
     height: 45vh;
     background-color: rgb(29, 29, 27);
 }
@@ -105,7 +104,6 @@ h2 {
     background-color: rgb(251, 226, 77);
     padding: 3%;
     text-align: center;
-    border-bottom: 5px black solid;
 }
 
 .caja11 {
